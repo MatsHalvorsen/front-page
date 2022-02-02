@@ -80,9 +80,9 @@
 
 header {
   width: 100%;
-  height: 400px;
+  
   background-image: url(../assets/jumbotron.jpg);
-  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
